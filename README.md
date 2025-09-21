@@ -33,6 +33,7 @@ BigQuery Connections:
 664591046838.US.gcs_conn (Cloud Resource for GCS)
 
 IAM: roles/aiplatform.user granted to both connection service accounts
+
 ![1](https://raw.githubusercontent.com/GiannisVoulgaris/urban-ai-screenshots/3270f0eacf938b55c585d74235b1a9c5d96d77bf/1.png)
 
 We use a BigQuery **Object Table** to link our GCS bucket with pothole images.  
