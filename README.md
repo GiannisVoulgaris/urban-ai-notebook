@@ -20,6 +20,8 @@ All steps center around BigQuery as the data warehouse.
 
 * Dashboards: Structured outputs feed Looker Studio BI.
 
+  ![0](https://github.com/GiannisVoulgaris/urban-ai-notebook/blob/04eb4b36051b752447ecae90bff5f230543c1c1d/Screenshots/diagram-export-21-09-2025-20_11_01.png)
+
   2. Data Ingestion & Setup
 We ingested 690k+ NYC 311 requests into BigQuery (citizen_complaints_final).
 We also created an Object Table to reference infrastructure images stored in GCS.
